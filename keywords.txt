@@ -1,0 +1,5 @@
+Joystick	KEYWORD1
+getUp 		KEYWORD2
+getDown 	KEYWORD2
+getLeft 	KEYWORD2
+getRight 	KEYWORD2
